@@ -6,7 +6,7 @@ Hi guys!
 <h2 align="center"> ABOUT ME </h2>
 <p align="center">
   
-  - 👋 I'm Oviyashri, working as a Python Developer
+  - 👋 Oviya here
   - 🤖 Machine Learning 
   - 🧠 Currently focusing on Deep Learning and Natural Language Processing in general.
   - 🤗 Excited to learn new things
