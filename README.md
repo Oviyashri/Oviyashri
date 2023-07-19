@@ -7,7 +7,7 @@ Hi guys!
 <p align="center">
   
   - 👋 Oviya here
-  - 🤖 Machine Learning 
+  - 🤖 Interested in Machine Learning. 
   - 🧠 Currently focusing on Deep Learning and Natural Language Processing in general.
   - 🤗 Excited to learn new things
   - 📥 Reach out me through my mail: oviyashri99@gmail.com
